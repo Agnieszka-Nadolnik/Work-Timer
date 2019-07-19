@@ -1,6 +1,5 @@
 $(function(e) {
     console.log('DOM');
-    // e.preventDefault();
 
 const url = "http://localhost:3000/task";
 
